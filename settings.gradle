@@ -1,0 +1,3 @@
+rootProject.name='BobDemo'
+include ':app'
+include ':ui'
