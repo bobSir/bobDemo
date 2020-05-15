@@ -1,12 +1,13 @@
-package com.bob.demo
+package com.bob.demo.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.bob.demo.R
 
-class MainActivity : AppCompatActivity() {
+class FlowLayoutDemoActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_flow_layout_demo)
     }
 }
