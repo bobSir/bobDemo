@@ -1,3 +1,3 @@
 rootProject.name='BobDemo'
-include ':app'
+include ':app', ':animationdemo01'
 include ':ui'

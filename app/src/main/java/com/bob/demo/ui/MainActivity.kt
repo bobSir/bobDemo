@@ -16,4 +16,7 @@ class MainActivity : AppCompatActivity() {
     fun uiTest(view: View) {
         startActivity(Intent(this, UiDemoActivity::class.java))
     }
+
+    fun animTest(view: View) {
+    }
 }
