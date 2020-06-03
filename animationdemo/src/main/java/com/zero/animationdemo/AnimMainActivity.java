@@ -1,4 +1,4 @@
-package com.zero.animationdemo01;
+package com.zero.animationdemo;
 
 import android.content.Intent;
 import android.view.View;
@@ -6,6 +6,8 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.AdapterView.OnItemClickListener;
+
+import com.zero.animationdemo01.R;
 
 
 public class AnimMainActivity extends BaseActivity implements OnItemClickListener {

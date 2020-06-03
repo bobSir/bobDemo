@@ -1,4 +1,4 @@
-package com.zero.animationdemo01;
+package com.zero.animationdemo;
 
 import android.R.integer;
 import android.animation.AnimatorInflater;
@@ -12,6 +12,8 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
+
+import com.zero.animationdemo01.R;
 
 
 public class SimplePropertyAnimation extends Activity {

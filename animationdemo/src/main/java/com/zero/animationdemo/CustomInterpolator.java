@@ -1,4 +1,4 @@
-package com.zero.animationdemo01;
+package com.zero.animationdemo;
 
 import android.view.animation.Interpolator;
 

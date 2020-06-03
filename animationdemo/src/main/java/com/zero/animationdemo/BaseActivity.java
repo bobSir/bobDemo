@@ -1,4 +1,4 @@
-package com.zero.animationdemo01;
+package com.zero.animationdemo;
 
 import android.app.Activity;
 import android.os.Bundle;

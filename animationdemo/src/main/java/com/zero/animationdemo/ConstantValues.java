@@ -1,4 +1,4 @@
-package com.zero.animationdemo01;
+package com.zero.animationdemo;
 
 public interface ConstantValues {
     String[] trainEffectItems = {"简单动画", "复杂动画", "属性动画", "复杂属性动画",
